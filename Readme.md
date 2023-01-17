@@ -11,5 +11,7 @@ The current version presents data pertaining to 45 countries.
 In 2010, Haiti suffered a catastrophic magnitude 7.0 earthquake. The quake caused widespread devastation and loss of life and aout three million people were affected by this natural disaster. As part of Canada's humanitarian effort, the Government of Canada stepped up its effort in accepting refugees from Haiti. We can quickly visualize this effort using a `Line` plot:
 
 **Question:** Plot a line graph of immigration from Haiti using `df.plot()`.
+
 **Question:** Let's compare the number of immigrants from India and China from 1980 to 2013.
+
 **Question:** Compare the trend of top 5 countries that contributed the most to immigration to Canada.

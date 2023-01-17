@@ -8,7 +8,7 @@ The current version presents data pertaining to 45 countries.
 
 **Let's start with a case study:**
 
-In 2010, Haiti suffered a catastrophic magnitude 7.0 earthquake. The quake caused widespread devastation and loss of life and aout three million people were affected by this natural disaster. As part of Canada's humanitarian effort, the Government of Canada stepped up its effort in accepting refugees from Haiti. We can quickly visualize this effort using a `Line` plot:
+Each row represents a country and contains metadata about the country such as where it is located geographically and whether it is developing or developed. Each row also contains numerical figures of annual immigration from that country to Canada from 1980 to 2013. 
 
 **Question 1:** Plot a line graph of immigration from Haiti using `df.plot()`.
 
